@@ -1,6 +1,7 @@
 # Social Media MVP Implementation Plan
 
-- Status: Plan prepared; implementation has not started.
+- Status: Superseded on 2026-09-28 by
+  `doc/plan/1790634768_social_media_mvp_sqlite_plan.md`.
 - Date: 2026-09-28
 - Source study: `doc/study/1790599824_social_media_mvp_feasibility.md`
 - Authoritative decisions: `doc/canonical/mvp-decisions.md`

@@ -5,6 +5,12 @@
 - Date: 2026-09-28
 - Scope: Feasibility and recommended approach only. No application code is included.
 
+The original study recommended PostgreSQL and durable/external media storage.
+Later human-approved decisions intentionally supersede those recommendations
+for this MVP: use SQLite and local media storage, as recorded in
+`doc/canonical/mvp-decisions.md`. Keep the original analysis as historical
+tradeoff context; use the canonical record for implementation decisions.
+
 ## Executive Recommendation
 
 The requested MVP is feasible as a small, single-deployment web application.
